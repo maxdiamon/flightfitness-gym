@@ -1,0 +1,50 @@
+#title{
+  background-color:#32E0C4;
+  color:#000000;
+  font-size:1.25rem;
+}
+.container-fluid{
+  padding:3% 3% 15% 15%
+}
+.nav-link{
+  color:#fff
+}
+.nav-link:hover{
+  color:#fff
+}
+.navbar-brand{
+ color:#fff;
+ font-size:1.5rem
+}
+.h1{
+  font-family:"open sans";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight:bold;
+}
+.title-image{
+  width:80%;
+  transform:rotate(25deg);
+padding-top:20%
+}
+#reviews{
+text-align:center;
+font-family: "open sans";
+}
+.carouselImage{
+  Height:150px;
+  border-radius:50%;
+  width:150px;
+}
+.navitem{
+  padding:0 18px 18px;
+}
+#menu{
+text-align: center;
+background-color:#FF0000;
+color:#fff;
+font-family:"open sans";
+}
+.wightsimages{
+  height:120px;
+  width:120px;
